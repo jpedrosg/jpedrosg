@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on a... dont know yet.
 - 🤔 I’m looking for recomendations for AI's related courses.
 - 💬 Ask me about Swift, Kotlin, or any tech related stuff.
-- 📫 How to reach me: Linkedin - 
+- 📫 How to reach me: [My Linkedin](https://www.linkedin.com/in/jpgiarrante/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I hate frogs 🐸!
 
