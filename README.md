@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey, I'm João Giarrante, from Brasil 👋🇧🇷
 
-<!--
-**jpedrosg/jpedrosg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Banco PAN's Mobile App.
+- 🌱 I’m currently learning Clean Swift.
+- 👯 I’m looking to collaborate on a... dont know yet.
+- 🤔 I’m looking for recomendations for AI's related courses.
+- 💬 Ask me about Swift, Kotlin, or any tech related stuff.
+- 📫 How to reach me: Linkedin - 
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I hate frogs 🐸!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
