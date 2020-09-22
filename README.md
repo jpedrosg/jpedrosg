@@ -1,12 +1,4 @@
 
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jpedrosg&&show_icons=true&title_color=000000&icon_color=000000&text_color=8B8D8F&bg_color=FFFFFF" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedrosg&amp;theme=light&amp;hide_langs_below=1" style="max-width:100%;">
-
-
-
-
-
 ## Hey, I'm [João Giarrante](https://www.linkedin.com/in/jpgiarrante/), from Brasil 👋🇧🇷
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpedrosg&label=Views&color=blue&style=plastic" alt="jpedrosg" /> </p>
