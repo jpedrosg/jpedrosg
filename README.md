@@ -47,10 +47,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedrosg&theme=light&hide_langs_below=1" />
 </a>
 <br/>
-<a href="https://github.com/jpedrosg">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=jpedrosg&show_icons=true&theme=light&line_height=27" alt="JPedro's github stats"/>
-</a>
-<br/>
 <a href="https://github.com/jpedrosg/jpsg.hangman_game">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpedrosg&repo=jpsg.hangman_game&theme=light" />
 </a>
@@ -58,6 +54,11 @@
 <a href="https://github.com/jpedrosg/jpsg.hangman_game">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpedrosg&repo=jpsg.cursoswift&theme=light" />
 </a>
+<br/>
+<a href="https://github.com/jpedrosg">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=jpedrosg&show_icons=true&theme=light&line_height=27" alt="JPedro's github stats"/>
+</a>
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
