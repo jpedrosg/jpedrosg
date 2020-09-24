@@ -54,7 +54,10 @@
 <a href="https://github.com/jpedrosg/jpsg.hangman_game">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpedrosg&repo=jpsg.hangman_game&theme=light" />
 </a>
-
+<br/>
+<a href="https://github.com/jpedrosg/jpsg.hangman_game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpedrosg&repo=jpsg.cursoswift&theme=light" />
+</a>
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
