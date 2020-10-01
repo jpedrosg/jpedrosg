@@ -1,7 +1,31 @@
+<p align="center">
+  <a href="#">
+    <img align="center" width="280" src="signature.png" />
+  </a>
+  <a href="#">
+    <img align="center" width="510" src="banner.gif" />
+  </a>
+</p>
 
-## Hey, I'm [João Giarrante](https://www.linkedin.com/in/jpgiarrante/), from Brasil 👋🇧🇷
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedrosg&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=jpedrosg&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jpedrosg&label=Views&color=blue&style=plastic" alt="jpedrosg" /> </p>
+## Hey There, I'm from Brazil! 🇧🇷  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+
+
 <a href="https://www.linkedin.com/in/jpgiarrante/">
   <img align="left" alt="JPedro's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -29,35 +53,35 @@
 - 📫 How to reach me: [Linkedin - @jpgiarrante](https://www.linkedin.com/in/jpgiarrante/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I hate frogs 🐸!
-
-[![Linkedin: jpedro_g](https://img.shields.io/badge/-jpedro_g-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jpgiarrante/)](https://www.linkedin.com/in/imthepk/)
-[![GitHub jpedrosg](https://img.shields.io/github/followers/jpedrosg?label=follow&style=social)](https://github.com/jpedrosg)
-
+<br/>
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
 
-<a href="https://github.com/jpedrosg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedrosg&theme=light&hide_langs_below=1" />
-</a>
-<br/>
-<a href="https://github.com/jpedrosg/jpsg.hangman_game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpedrosg&repo=jpsg.hangman_game&theme=light" />
-</a>
-<br/>
-<a href="https://github.com/jpedrosg/jpsg.cursoswift">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpedrosg&repo=jpsg.cursoswift&theme=light" />
-</a>
-<br/>
-<a href="https://github.com/jpedrosg">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=jpedrosg&show_icons=true&theme=light&line_height=27" alt="JPedro's github stats"/>
-</a>
+
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=jpedrosg&repo=jpsg.hangman_game&theme=light"
+    />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=jpedrosg&repo=jpsg.cursoswift&theme=light"
+    />
+  </a>
+</p>
+
 
 <div align="center">
 
