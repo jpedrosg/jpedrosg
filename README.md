@@ -6,21 +6,7 @@
     <img align="center" width="510" src="banner.gif" />
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedrosg&layout=compact&theme=graywhite"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=jpedrosg&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=graywhite"
-    />
-  </a>
-</p>
+
 
 ## Hey There, I'm from Brazil! 🇧🇷  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
@@ -51,7 +37,6 @@
 - I’m currently working on Banco PAN's Mobile App.
 - I’m currently learning Clean Swift.
 - Ask me about Swift, Java, or any tech related stuff.
-- How to reach me: [Linkedin - @jpgiarrante](https://www.linkedin.com/in/jpgiarrante/)
 
 <br/>
 
@@ -64,12 +49,36 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
 
+<br/>
 
+### Stats:
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
+         width="auto%"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedrosg&layout=compact&theme=graywhite"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+         width="51%"
+      src="https://github-readme-stats.vercel.app/api?username=jpedrosg&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=graywhite"
+    />
+  </a>
+</p>
+
+<br/>
+
+### Highlighted Repos:
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+         width="49.5%"
       src="https://github-readme-stats.vercel.app/api/pin/?username=jpedrosg&repo=hangmanGame&theme=graywhite"
     />
   </a>
@@ -77,7 +86,25 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
+         width="49.5%"
       src="https://github-readme-stats.vercel.app/api/pin/?username=jpedrosg&repo=cursoSwift&theme=graywhite"
+    />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+         width="49.5%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=jpedrosg&repo=cleanTodoey&theme=graywhite"
+    />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+         width="49.5%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=jpedrosg&repo=cleanCrypto&theme=graywhite"
     />
   </a>
 </p>
