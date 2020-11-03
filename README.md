@@ -7,18 +7,27 @@
   </a>
 </p>
 
+![age](https://img.shields.io/badge/Age-20-blue)
+![living](https://img.shields.io/badge/Living-Brazil-green)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jpedrosg)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jpgiarrante/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joaopedrogiarrante15@gmail.com)
+<br/>
+<br/>
+<br/>
+<br/>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedrosg&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedrosg&layout=compact&theme=graywhite"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=jpedrosg&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+      src="https://github-readme-stats.vercel.app/api?username=jpedrosg&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=graywhite"
     />
   </a>
 </p>
@@ -43,15 +52,17 @@
 </a>
 
 <br/>
+
+
 <br/>
 
-- 🔭 I’m currently working on Banco PAN's Mobile App.
-- 🌱 I’m currently learning Clean Swift.
-- 🤔 I’m looking for recomendations for AI's related courses.
-- 💬 Ask me about Swift, Java, or any tech related stuff.
-- 📫 How to reach me: [Linkedin - @jpgiarrante](https://www.linkedin.com/in/jpgiarrante/)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I hate frogs 🐸!
+
+
+- I’m currently working on Banco PAN's Mobile App.
+- I’m currently learning Clean Swift.
+- Ask me about Swift, Java, or any tech related stuff.
+- How to reach me: [Linkedin - @jpgiarrante](https://www.linkedin.com/in/jpgiarrante/)
+
 <br/>
 
 ### Languages and Tools:
@@ -69,14 +80,14 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=jpedrosg&repo=hangmanGame&theme=light"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=jpedrosg&repo=hangmanGame&theme=graywhite"
     />
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=jpedrosg&repo=cursoSwift&theme=light"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=jpedrosg&repo=cursoSwift&theme=graywhite"
     />
   </a>
 </p>
