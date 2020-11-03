@@ -57,14 +57,14 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-         width="auto%"
+         width="40%"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedrosg&layout=compact&theme=graywhite"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-         width="51%"
+         width="59%"
       src="https://github-readme-stats.vercel.app/api?username=jpedrosg&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=graywhite"
     />
   </a>
@@ -109,10 +109,7 @@
   </a>
 </p>
 
+<br/>
 
-<div align="center">
 
-### Show some ❤️ by starring some of the repositories!
-
-</div>
 
