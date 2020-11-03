@@ -9,14 +9,12 @@
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-          width="40%" 
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedrosg&layout=compact&theme=graywhite"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-         width="40%" 
       align="center"
       height="165"
       src="https://github-readme-stats.vercel.app/api?username=jpedrosg&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=graywhite"
@@ -71,7 +69,6 @@
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-         width="40%"
       align="center"
       src="https://github-readme-stats.vercel.app/api/pin/?username=jpedrosg&repo=hangmanGame&theme=graywhite"
     />
@@ -79,7 +76,6 @@
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-         width="40%"
       align="center"
       src="https://github-readme-stats.vercel.app/api/pin/?username=jpedrosg&repo=cursoSwift&theme=graywhite"
     />
