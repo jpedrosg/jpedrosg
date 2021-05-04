@@ -34,7 +34,7 @@
 
 
 
-- I’m currently working on Banco PAN's Mobile App.
+- I’m currently working on Cornershop By Uber Mobile App.
 - I’m currently learning Clean Swift.
 - Ask me about Swift, Java, or any tech related stuff.
 
