@@ -77,7 +77,7 @@
 ### Highlighted Repos:
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/jpedrosg/HangmanGame">
     <img
       align="center"
          width="49.5%"
@@ -85,7 +85,7 @@
     />
   </a>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/jpedrosg/CursoSwift">
     <img
       align="center"
          width="49.5%"
@@ -94,7 +94,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/jpedrosg/CleanTodoey">
     <img
       align="center"
          width="49.5%"
@@ -102,7 +102,7 @@
     />
   </a>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/jpedrosg/CleanCrypto">
     <img
       align="center"
          width="49.5%"
