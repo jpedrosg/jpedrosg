@@ -35,7 +35,7 @@
 
 
 - I’m currently working on Cornershop By Uber Mobile App.
-- I’m currently learning Clean Swift.
+- I’m currently learning new Concurrent Code methods of Swift 5.5 from WWDC21.
 - Ask me about Swift, Java, or any tech related stuff.
 
 <br/>
