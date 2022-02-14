@@ -94,11 +94,11 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/jpedrosg/CleanTodoey">
+  <a href="https://github.com/jpedrosg/Swippy">
     <img
       align="center"
          width="49.5%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=jpedrosg&repo=cleanTodoey&theme=graywhite"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=jpedrosg&repo=Swippy&theme=graywhite"
     />
   </a>
   
