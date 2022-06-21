@@ -1,7 +1,7 @@
 
 <p float="left">
-  <img src="signature.png" height="300px" />
-  <img src="banner.gif" height="300px" /> 
+  <img src="signature.png" height="250px" />
+  <img src="banner.gif" height="250px" /> 
 </p>
 
 
